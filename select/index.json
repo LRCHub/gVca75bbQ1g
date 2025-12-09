@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アルゴリズム",
+  "base_artist": "安野希世乃",
+  "createdAt": "2025-12-09T15:46:13.130613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・ファンキー・アルゴリズム",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/01_ザ・ファンキー・アルゴリズム_Epica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルゴリズム",
+      "artist": "Beyond Creation",
+      "has_synced": false,
+      "path": "select/02_アルゴリズム_Beyond_Creation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "『嘆きの亡霊は引退したい』第2クールノンクレジットオープニング｜安野希世乃「アルゴリズム」",
+      "artist": "GREE Entertainment ANIME & GAME【公式】",
+      "has_synced": false,
+      "path": "select/03_『嘆きの亡霊は引退したい』第2クールノンクレジットオープニング_安野希世乃「アルゴリズム」_GREE_Entertainment_ANIME_&_GAME【公式】.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルゴリズム",
+      "artist": "安野希世乃",
+      "has_synced": false,
+      "path": "select/pl_01_アルゴリズム_安野希世乃.txt"
+    }
+  ]
+}
